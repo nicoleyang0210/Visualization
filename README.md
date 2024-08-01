@@ -1,6 +1,6 @@
 Data visualization is a crucial aspect of data analysis and storytelling. It allows us to represent complex data in a visually intuitive manner, making it easier to identify trends, patterns, and relationships. Seaborn is a powerful Python data visualization library based on Matplotlib that provides a high-level interface for drawing attractive and informative statistical graphics.
 
-In this notebook, we will explore various types of charts using Seaborn, covering different aspects of data visualization such as trends, relationships, and distributions. By the end of this notebook, you will have a comprehensive understanding of how to leverage Seaborn to create effective visualizations for your data analysis projects.
+In this repository, we will explore various types of charts using matplotlib and Seaborn, covering different aspects of data visualization such as trends, relationships, and distributions. By the end of this notebook, you will have a comprehensive understanding of how to leverage Seaborn to create effective visualizations for your data analysis projects.
 
 We will cover the following types of charts:
 
