@@ -4,8 +4,8 @@ In this notebook, we will explore various types of charts using Seaborn, coverin
 
 We will cover the following types of charts:
 
-Trend Analysis: Line plots for visualizing data trends over time.
-sns.lineplot - Line charts are best to show trends over a period of time, and multiple lines can be used to show trends in more than one group.
+*Trend Analysis*: Line plots for visualizing data trends over time.
+- sns.lineplot - Line charts are best to show trends over a period of time, and multiple lines can be used to show trends in more than one group.
 
 Relationship Analysis: Scatter plots and regression plots to examine relationships between variables.
 sns.barplot - A bar plot is a categorical plot that represents data with rectangular bars. The length of each bar is proportional to the value it represents. Bar plots are useful for comparing quantities across different categories. 
