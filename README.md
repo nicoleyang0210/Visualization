@@ -4,10 +4,10 @@ In this notebook, we will explore various types of charts using Seaborn, coverin
 
 We will cover the following types of charts:
 
-*Trend Analysis*: Line plots for visualizing data trends over time.
+**Trend Analysis**: Line plots for visualizing data trends over time.
 - sns.lineplot - Line charts are best to show trends over a period of time, and multiple lines can be used to show trends in more than one group.
 
-Relationship Analysis: Scatter plots and regression plots to examine relationships between variables.
+**Relationship Analysis**: Scatter plots and regression plots to examine relationships between variables.
 - sns.barplot - A bar plot is a categorical plot that represents data with rectangular bars. The length of each bar is proportional to the value it represents. Bar plots are useful for comparing quantities across different categories. 
 
 - sns.heatmap - A heatmap is a data visualization technique that uses color to represent the values of a matrix. The intensity of the color represents the magnitude of the values. Heatmaps are useful for displaying correlations and detecting patterns or anomalies in data.
@@ -18,7 +18,7 @@ Relationship Analysis: Scatter plots and regression plots to examine relationshi
 
 - sns.lmplot - An lmplot is a high-level interface for drawing linear regression models, combining scatter plots and regression lines.
 
-*Distribution Analysis*: Histograms, KDE plots, and box plots for understanding data distributions.
+**Distribution Analysis**: Histograms, KDE plots, and box plots for understanding data distributions.
 - sns.histplot - A histogram plot displays the distribution of a single variable by dividing the data into bins and counting the number of observations in each bin. The height of each bar represents the count or frequency of data points within that bin.
 
 - sns.kdeplot - A kernel density estimate (KDE) plot is a smoothed version of a histogram, providing an estimate of the probability density function of a continuous variable. It uses a kernel to create a continuous, smooth curve that represents the data distribution.
